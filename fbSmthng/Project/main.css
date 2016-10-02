@@ -1,0 +1,134 @@
+.fb_head{
+	background-color: #3A5795;
+}
+.head_off{
+	margin-top: 0.6%;
+}
+.head_foot{
+	color: #99A0B2;
+}
+.white{
+	color: white;
+}
+a{
+	color: #0E385F;
+}
+.head_foot{
+	color: #99A0B2;
+}
+.per_1{
+	margin-top: 1%;
+}
+.per_3{
+	margin-top: 3%;
+}
+.login{
+	background-color: #4C67A1;
+	color: white;
+	border: black;
+	padding: 3%;
+}
+.second_div{
+	background: #D4D9E8;
+}
+.margin_25{
+	margin-top: 5%;
+}
+.map_head{
+	color: #0E385F;
+}
+.map_img{
+	margin-bottom: 50%;
+}
+.left_2{
+	margin-left: 2%;
+}
+.grey{
+	color: #848484;
+}
+a{
+	color: #0E385F;
+}
+.fb_head_height{
+	min-height: 50px;
+	background-color: ;
+}
+.per_2{
+	margin-top: 2%;
+}
+.grey{
+	color: #848484;
+}
+a{
+	color: #0E385F;
+}
+.fb_head_height{
+	min-height: 50px;
+	background-color: ;
+}
+.per_2{
+	margin-top: 2%;
+}
+.second_div{
+	background: #D4D9E8;
+}
+.backwhite{
+	background-color: white;
+	margin-top: 50px;
+	border-radius: 5px;
+	margin-bottom: 50px;
+}
+.head_items{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: absolute;
+}
+.head_img{
+	height: 25px;
+	width: 25px;
+	border-radius: 2PX;
+}
+.backwhite1{
+	background-color: white;
+	//margin-left: 2%;
+}
+.status_img{
+	width:50px;
+	height:50px;
+}
+.search{
+	background-color: #4C67A1;
+	color: white;
+	border: black;
+
+	
+}
+
+.email_fb_head{
+
+	height: 120px;
+	width: 450px;
+}
+.verify_email{
+	
+	font-size: 25px;
+	margin-top: 50px;
+	text-align: center;
+
+}
+.email_vrfy_msg{
+	
+	text-align: justify;
+	margin-top: 50px;
+}
+.btn_resnd_email{
+	
+	margin-top: 50px;
+	width: 450px;
+}
+.email_vrfy_font{
+	font-family: Gadget;
+}
+.email_verfy_foot{
+	margin-top: 25px
+}
